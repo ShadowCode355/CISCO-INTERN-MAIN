@@ -80,5 +80,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: VECHHAM SHIVARAMSRUJAN
-- **Email**: [drbrucebanner102@gmail.com](mailto:drbrucebanner102@gmail.com)
+- **Name**: Syed Rifathullah
+- **Email**: syedrifathullah2006@gmail.com
